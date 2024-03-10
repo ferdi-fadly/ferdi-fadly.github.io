@@ -1,0 +1,36 @@
+## [My First Statistics Blog](https://ferdifadly.blogspot.com/){target="_blank"}
+
+:::: columns
+::: {.column width="55%"}
+Saya dengan senang hati memperkenalkan blog pertama saya yang berfokus pada statistik [(ferdifadly.blogspot.com)](https://ferdifadly.blogspot.com/){target="_blank"}. Sejak awal pembangunannya di 2011, blog ini telah dikunjungi hampir 1 juta kunjungan. Namun, sebagai bagian dari perubahan, mulai tahun 2024, blog ini akan diistirahatkan. Meskipun demikian, file-file lama masih dapat diakses.
+
+Saat ini, saya sedang membangun ulang blog ini dalam bentuk buku elektronik yang akan tersedia dengan berbagai tema seperti yang tertera di halaman [Projects](projects.qmd){target="_blank"} ini. Saya berharap blog ini tetap bermanfaat bagi pembaca dan menginspirasi minat terutama dalam bidang statistik... [Check out my First Blog](https://ferdifadly.blogspot.com/){target="_blank"}
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="40%"}
+[![ferdifadly.blogspot.com](images/firstblog.png)]{width=40%}(https://ferdifadly.blogspot.com/)
+:::
+::::
+
+## [Econometrics Book](https://ferdi-fadly.github.io/econ){target="_blank"}: Metode Analisis di Bidang Ekonomi
+
+:::: columns
+::: {.column width="20%"}
+![(https://ferdi-fadly.github.io/econ)](images/cover.png)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="75%"}
+
+Sebagai penulis, saya merasa sangat bersemangat untuk mempersembahkan buku Ekonometrika ini. Dalam penulisannya, saya berusaha menggali lebih dalam tentang bagaimana data statistik dapat membuka pintu wawasan tentang fenomena ekonomi yang kompleks.
+
+Dalam buku ini, kita akan berdiskusi tentang regresi, yang memungkinkan kita memahami hubungan antara variabel-variabel ekonomi. Kita juga akan menjelajahi Error Correction Model (ECM), dan tentu saja, kita tidak akan melewatkan regresi dengan data panel.
+
+Ditulis dalam bahasa R, Saya berharap buku ini tidak hanya menjadi referensi, tetapi juga menjadi teman setia bagi mahasiswa, peneliti, dan praktisi ekonomi. Mari kita bersama-sama menjelajahi dunia analisis statistik yang menarik dan relevan dalam konteks ekonomi. Selamat membaca! ... [Check out how](https://ferdi-fadly.github.io/econ){target="_blank"}
+:::
+::::

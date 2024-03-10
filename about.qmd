@@ -1,0 +1,50 @@
+---
+title: "Ferdian Fadly"
+image: images/Fotoprofile.jpg
+about:
+  template: trestles
+  image-width: 14em
+  image-shape: round
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/ferdianfadly
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/ferdian-fadly-81826466/
+    - icon: github
+      text: Github
+      href: https://github.com/ferdi-fadly
+    - icon: youtube
+      text: Youtube
+      href: https://www.youtube.com/channel/UCtqJSg1N79e_GRQhOg4pDEA
+    - icon: envelope
+      text: Contact me
+      href: mailto:07.5356@gmail.com
+---
+
+I am a Statistician and a lecturer. I have extensive background working with varied data sets and using advanced analytics to enable policy maker to make informed decisions.
+
+Statistics ANU | PK-169 LPDP | STIS 49 | SMAN 8 Pekanbaru
+
+## Education
+
+The Australian National University (ANU) | Canberra, Australia
+Master in Statistics | Feb 2021 - Dec 2022
+
+The Institute of Statistics (STIS) | Jakarta, Indonesia </br>
+B.Sc in Applied Statistics | Sept 2007 - Oct 2011
+
+## Teaching Experience
+
+The Australian National University (ANU) | Canberra, Australia
+Introductory Statistics for Business and Finance | 2022
+
+The Australian National University (ANU) | Canberra, Australia
+Quantitative Research Methods | 2022
+
+Universitas Riau (UNRI) | Pekanbaru, Indonesia </br>
+Panel Data Analytics | 2023
+
+Universitas Muhammadiyah Riau (UMRI) | Pekanbaru, Indonesia </br>
+Econometrics | 2024

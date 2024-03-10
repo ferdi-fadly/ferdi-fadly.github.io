@@ -1,0 +1,142 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ferdian Fadly",
+    "section": "",
+    "text": "I am a Statistician and a lecturer. I have extensive background working with varied data sets and using advanced analytics to enable policy maker to make informed decisions.\nStatistics ANU | PK-169 LPDP | STIS 49 | SMAN 8 Pekanbaru"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Ferdian Fadly",
+    "section": "",
+    "text": "I am a Statistician and a lecturer. I have extensive background working with varied data sets and using advanced analytics to enable policy maker to make informed decisions.\nStatistics ANU | PK-169 LPDP | STIS 49 | SMAN 8 Pekanbaru"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Ferdian Fadly",
+    "section": "Education",
+    "text": "Education\nThe Australian National University (ANU) | Canberra, Australia Master in Statistics | Feb 2021 - Dec 2022\nThe Institute of Statistics (STIS) | Jakarta, Indonesia  B.Sc in Applied Statistics | Sept 2007 - Oct 2011"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Ferdian Fadly",
+    "section": "Experience",
+    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Sept 2012 - April 2018"
+  },
+  {
+    "objectID": "index.html#teaching-experience",
+    "href": "index.html#teaching-experience",
+    "title": "Ferdian Fadly",
+    "section": "Teaching Experience",
+    "text": "Teaching Experience\nThe Australian National University (ANU) | Canberra, Australia Introductory Statistics for Business and Finance | 2022\nThe Australian National University (ANU) | Canberra, Australia Quantitative Research Methods | 2022\nUniversitas Riau (UNRI) | Pekanbaru, Indonesia  Panel Data Analytics | 2023\nUniversitas Muhammadiyah Riau (UMRI) | Pekanbaru, Indonesia  Econometrics | 2024"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Ferdian Fadly",
+    "section": "",
+    "text": "Saya dengan senang hati memperkenalkan blog pertama saya yang berfokus pada statistik (ferdifadly.blogspot.com). Sejak awal pembangunannya di 2011, blog ini telah dikunjungi hampir 1 juta kunjungan. Namun, sebagai bagian dari perubahan, mulai tahun 2024, blog ini akan diistirahatkan. Meskipun demikian, file-file lama masih dapat diakses.\nSaat ini, saya sedang membangun ulang blog ini dalam bentuk buku elektronik yang akan tersedia dengan berbagai tema seperti yang tertera di halaman Projects ini. Saya berharap blog ini tetap bermanfaat bagi pembaca dan menginspirasi minat terutama dalam bidang statistik… Check out my First Blog\n\n\n\n(https://ferdifadly.blogspot.com/)"
+  },
+  {
+    "objectID": "projects.html#my-first-blog",
+    "href": "projects.html#my-first-blog",
+    "title": "Ferdian Fadly",
+    "section": "",
+    "text": "The GBIF Data Explorer is a web application that allows users to explore and analyze biodiversity data for Poland from the Global Biodiversity Information Facility (GBIF) database.\nThe app is built using the Shiny package for R. It includes several visualizations and filters created using the following packages: DT, shiny, shinyWidgets, shinythemes, shinyjs, bslib, bsicons, lubridate, leaflet, highcharter…. Check out the Blog"
+  },
+  {
+    "objectID": "projects.html#collaborating-between-python-and-r-using-reticulate",
+    "href": "projects.html#collaborating-between-python-and-r-using-reticulate",
+    "title": "Ferdian Fadly",
+    "section": "Collaborating between Python and R using Reticulate",
+    "text": "Collaborating between Python and R using Reticulate\n\n\n\n\n\n\nBoth R and Python are powerful data science languages and can be used to accomplish end-to-end analytics projects. Reticulate makes it easy to collaborate and talk between the two languages. I think of it as a translator on my fingertips.\nMy teammate and I participated in Microsoft hackathon where we accessed data from APIs using Python, pulled the output in R using Reticulate and created visualizations to derive business insights using Ggplot2… Check out how"
+  },
+  {
+    "objectID": "projects.html#data-visualizations---animation-and-interactivity-using-gganimate-and-plotly",
+    "href": "projects.html#data-visualizations---animation-and-interactivity-using-gganimate-and-plotly",
+    "title": "Ferdian Fadly",
+    "section": "Data visualizations - Animation and Interactivity using Gganimate and Plotly",
+    "text": "Data visualizations - Animation and Interactivity using Gganimate and Plotly\n\n\nAnimation brings in a key component of analysis where the third parameter you want to animate is not directly visible in your plot. Sometimes it can tell a powerful story and sometimes it can just add some flair to an otherwise low-key story.\nThis blog goes through examples and code to show how easy it is to use gganimate and plotly packages to animate your data visualizations and make them interactive…. Continue reading"
+  },
+  {
+    "objectID": "projects.html#sales-forecasting-and-anomaly-detection-shiny-dashboard",
+    "href": "projects.html#sales-forecasting-and-anomaly-detection-shiny-dashboard",
+    "title": "Ferdian Fadly",
+    "section": "Sales forecasting and anomaly detection Shiny dashboard",
+    "text": "Sales forecasting and anomaly detection Shiny dashboard\n\n\n\n\n\n\nThis dashboard, built with Shiny Flex capability, looks at data from EverythingYouWillNeed.com website (fake data) to report out odaily product sales. You can select the product, the dates to analyze and click on apply to replicate the report, check sales forecast and anomalies for the specific product choice.\nGiving your stakeholders the ability to play with product grain forecast and anomaly detection is a great was to get them on-board prior to deploying any model at scale. This Shiny dashboard was built specifically for that purpose…. Link to play with the Shiny dashboard"
+  },
+  {
+    "objectID": "projects.html#my-first-statistics-blog",
+    "href": "projects.html#my-first-statistics-blog",
+    "title": "Ferdian Fadly",
+    "section": "",
+    "text": "Saya dengan senang hati memperkenalkan blog pertama saya yang berfokus pada statistik (ferdifadly.blogspot.com). Sejak awal pembangunannya di 2011, blog ini telah dikunjungi hampir 1 juta kunjungan. Namun, sebagai bagian dari perubahan, mulai tahun 2024, blog ini akan diistirahatkan. Meskipun demikian, file-file lama masih dapat diakses.\nSaat ini, saya sedang membangun ulang blog ini dalam bentuk buku elektronik yang akan tersedia dengan berbagai tema seperti yang tertera di halaman Projects ini. Saya berharap blog ini tetap bermanfaat bagi pembaca dan menginspirasi minat terutama dalam bidang statistik… Check out my First Blog\n\n\n\n(https://ferdifadly.blogspot.com/)"
+  },
+  {
+    "objectID": "projects.html#econometrics-book",
+    "href": "projects.html#econometrics-book",
+    "title": "Ferdian Fadly",
+    "section": "Econometrics Book",
+    "text": "Econometrics Book\n\n\n(https://ferdi-fadly.github.io/econ)\n\n\n\nEkonometrics Book: Metode Analisis Statistik dalam Bidang Ekonomi\nSebagai penulis, saya merasa sangat bersemangat untuk mempersembahkan buku Ekonometrika ini. Dalam perjalanan menulisnya, saya berusaha menggali lebih dalam tentang bagaimana data statistik dapat membuka pintu wawasan tentang fenomena ekonomi yang kompleks.\nDalam buku ini, kita akan berdiskusi tentang regresi, yang memungkinkan kita memahami hubungan antara variabel-variabel ekonomi. Kita juga akan menjelajahi Error Correction Model (ECM), alat yang berguna untuk menganalisis hubungan jangka pendek dan jangka panjang. Dan tentu saja, kita tidak akan melewatkan regresi dengan data panel, yang menggabungkan data lintas waktu dan lintas individu.\nDitulis dalam bahas R, Saya berharap buku ini tidak hanya menjadi referensi, tetapi juga menjadi teman setia bagi mahasiswa, peneliti, dan praktisi ekonomi. Mari kita bersama-sama menjelajahi dunia analisis statistik yang menarik dan relevan dalam konteks ekonomi. Selamat membaca! … Check out how"
+  },
+  {
+    "objectID": "projects.html#econometrics-book-metode-analisis-statistik-dalam-bidang-ekonomi",
+    "href": "projects.html#econometrics-book-metode-analisis-statistik-dalam-bidang-ekonomi",
+    "title": "Ferdian Fadly",
+    "section": "Econometrics Book: Metode Analisis Statistik dalam Bidang Ekonomi",
+    "text": "Econometrics Book: Metode Analisis Statistik dalam Bidang Ekonomi\n\n\n\n\n\n(https://ferdi-fadly.github.io/econ)\n\n\n\n\n\nSebagai penulis, saya merasa sangat bersemangat untuk mempersembahkan buku Ekonometrika ini. Dalam peulisannya, saya berusaha menggali lebih dalam tentang bagaimana data statistik dapat membuka pintu wawasan tentang fenomena ekonomi yang kompleks.\nDalam buku ini, kita akan berdiskusi tentang regresi, yang memungkinkan kita memahami hubungan antara variabel-variabel ekonomi. Kita juga akan menjelajahi Error Correction Model (ECM), dan tentu saja, kita tidak akan melewatkan regresi dengan data panel.\nDitulis dalam bahasa R, Saya berharap buku ini tidak hanya menjadi referensi, tetapi juga menjadi teman setia bagi mahasiswa, peneliti, dan praktisi ekonomi. Mari kita bersama-sama menjelajahi dunia analisis statistik yang menarik dan relevan dalam konteks ekonomi. Selamat membaca! … Check out how"
+  },
+  {
+    "objectID": "projects.html#econometrics-book-metode-analisis-statistik-di-bidang-ekonomi",
+    "href": "projects.html#econometrics-book-metode-analisis-statistik-di-bidang-ekonomi",
+    "title": "Ferdian Fadly",
+    "section": "Econometrics Book: Metode Analisis Statistik di Bidang Ekonomi",
+    "text": "Econometrics Book: Metode Analisis Statistik di Bidang Ekonomi\n\n\n\n\n\n(https://ferdi-fadly.github.io/econ)\n\n\n\n\n\nSebagai penulis, saya merasa sangat bersemangat untuk mempersembahkan buku Ekonometrika ini. Dalam peulisannya, saya berusaha menggali lebih dalam tentang bagaimana data statistik dapat membuka pintu wawasan tentang fenomena ekonomi yang kompleks.\nDalam buku ini, kita akan berdiskusi tentang regresi, yang memungkinkan kita memahami hubungan antara variabel-variabel ekonomi. Kita juga akan menjelajahi Error Correction Model (ECM), dan tentu saja, kita tidak akan melewatkan regresi dengan data panel.\nDitulis dalam bahasa R, Saya berharap buku ini tidak hanya menjadi referensi, tetapi juga menjadi teman setia bagi mahasiswa, peneliti, dan praktisi ekonomi. Mari kita bersama-sama menjelajahi dunia analisis statistik yang menarik dan relevan dalam konteks ekonomi. Selamat membaca! … Check out how"
+  },
+  {
+    "objectID": "projects.html#econometrics-book-analisis-statistik-di-bidang-ekonomi",
+    "href": "projects.html#econometrics-book-analisis-statistik-di-bidang-ekonomi",
+    "title": "Ferdian Fadly",
+    "section": "Econometrics Book: Analisis Statistik di Bidang Ekonomi",
+    "text": "Econometrics Book: Analisis Statistik di Bidang Ekonomi\n\n\n\n\n\n(https://ferdi-fadly.github.io/econ)\n\n\n\n\n\nSebagai penulis, saya merasa sangat bersemangat untuk mempersembahkan buku Ekonometrika ini. Dalam peulisannya, saya berusaha menggali lebih dalam tentang bagaimana data statistik dapat membuka pintu wawasan tentang fenomena ekonomi yang kompleks.\nDalam buku ini, kita akan berdiskusi tentang regresi, yang memungkinkan kita memahami hubungan antara variabel-variabel ekonomi. Kita juga akan menjelajahi Error Correction Model (ECM), dan tentu saja, kita tidak akan melewatkan regresi dengan data panel.\nDitulis dalam bahasa R, Saya berharap buku ini tidak hanya menjadi referensi, tetapi juga menjadi teman setia bagi mahasiswa, peneliti, dan praktisi ekonomi. Mari kita bersama-sama menjelajahi dunia analisis statistik yang menarik dan relevan dalam konteks ekonomi. Selamat membaca! … Check out how"
+  },
+  {
+    "objectID": "projects.html#econometrics-book-metode-analisis-di-bidang-ekonomi",
+    "href": "projects.html#econometrics-book-metode-analisis-di-bidang-ekonomi",
+    "title": "Ferdian Fadly",
+    "section": "Econometrics Book: Metode Analisis di Bidang Ekonomi",
+    "text": "Econometrics Book: Metode Analisis di Bidang Ekonomi\n\n\n\n\n\n(https://ferdi-fadly.github.io/econ)\n\n\n\n\n\nSebagai penulis, saya merasa sangat bersemangat untuk mempersembahkan buku Ekonometrika ini. Dalam penulisannya, saya berusaha menggali lebih dalam tentang bagaimana data statistik dapat membuka pintu wawasan tentang fenomena ekonomi yang kompleks.\nDalam buku ini, kita akan berdiskusi tentang regresi, yang memungkinkan kita memahami hubungan antara variabel-variabel ekonomi. Kita juga akan menjelajahi Error Correction Model (ECM), dan tentu saja, kita tidak akan melewatkan regresi dengan data panel.\nDitulis dalam bahasa R, Saya berharap buku ini tidak hanya menjadi referensi, tetapi juga menjadi teman setia bagi mahasiswa, peneliti, dan praktisi ekonomi. Mari kita bersama-sama menjelajahi dunia analisis statistik yang menarik dan relevan dalam konteks ekonomi. Selamat membaca! … Check out how"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Ferdian Fadly",
+    "section": "Education",
+    "text": "Education\nThe Australian National University (ANU) | Canberra, Australia Master in Statistics | Feb 2021 - Dec 2022\nThe Institute of Statistics (STIS) | Jakarta, Indonesia  B.Sc in Applied Statistics | Sept 2007 - Oct 2011"
+  },
+  {
+    "objectID": "about.html#teaching-experience",
+    "href": "about.html#teaching-experience",
+    "title": "Ferdian Fadly",
+    "section": "Teaching Experience",
+    "text": "Teaching Experience\nThe Australian National University (ANU) | Canberra, Australia Introductory Statistics for Business and Finance | 2022\nThe Australian National University (ANU) | Canberra, Australia Quantitative Research Methods | 2022\nUniversitas Riau (UNRI) | Pekanbaru, Indonesia  Panel Data Analytics | 2023\nUniversitas Muhammadiyah Riau (UMRI) | Pekanbaru, Indonesia  Econometrics | 2024"
+  }
+]

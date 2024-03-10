@@ -1,0 +1,45 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Ferdian Fadly"
+  favicon: "images/Fotoprofile.jpg"
+  
+  page-footer:
+    center: |
+      <span class="container"><strong>[Contact Ferdian Fadly](mailto:07.5356@gmail.com){target="_blank"}</strong></span>
+    left: |
+      <span class="container"><strong>My [First Blog](https://ferdifadly.blogspot.com/){target="_blank"}</strong></span>
+    right: |
+      <span class="container"><strong>[Github Repo](https://github.com/ferdi-fadly/){target="_blank"}</strong></span>
+    background: "black"  
+  
+  navbar:
+    left: 
+      - text: Home
+        href: index.qmd
+      - text: Projects
+        href: projects.qmd
+      - text: Resume
+        href: resume.qmd
+    right:
+      - icon: twitter
+        href: https://twitter.com/ferdianfadly
+      - icon: linkedin
+        href: https://www.linkedin.com/in/ferdian-fadly-81826466/
+      - icon: github
+        href: https://github.com/ferdi-fadly
+      - icon: youtube
+        href: https://www.youtube.com/channel/UCtqJSg1N79e_GRQhOg4pDEA
+      - icon: envelope
+        href: mailto:07.5356@gmail.com
+format:
+  html:
+    theme: 
+      light: lumen
+      dark: [lumen, theme_dark_custom.scss]
+    css: styles.css
+
+editor: visual
+
