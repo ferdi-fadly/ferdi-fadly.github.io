@@ -21,25 +21,11 @@
     "text": "Teaching Experience\nThe Australian National University (ANU) | Canberra, Australia Introductory Statistics for Business and Finance | 2022\nThe Australian National University (ANU) | Canberra, Australia Quantitative Research Methods | 2022\nUniversitas Riau (UNRI) | Pekanbaru, Indonesia  Panel Data Analytics | 2023\nUniversitas Muhammadiyah Riau (UMRI) | Pekanbaru, Indonesia  Econometrics | 2024"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "teslatex.html",
+    "href": "teslatex.html",
     "title": "Ferdian Fadly",
     "section": "",
-    "text": "I am a Statistician and a lecturer. I have extensive background working with varied data sets and using advanced analytics to enable policy maker to make informed decisions.\nStatistics ANU | PK-169 LPDP | STIS 49 | SMAN 8 Pekanbaru"
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Ferdian Fadly",
-    "section": "Education",
-    "text": "Education\nThe Australian National University (ANU) | Canberra, Australia Master in Statistics | Feb 2021 - Dec 2022\nThe Institute of Statistics (STIS) | Jakarta, Indonesia  B.Sc in Applied Statistics | Sept 2007 - Oct 2011"
-  },
-  {
-    "objectID": "index.html#teaching-experience",
-    "href": "index.html#teaching-experience",
-    "title": "Ferdian Fadly",
-    "section": "Teaching Experience",
-    "text": "Teaching Experience\nThe Australian National University (ANU) | Canberra, Australia Introductory Statistics for Business and Finance | 2022\nThe Australian National University (ANU) | Canberra, Australia Quantitative Research Methods | 2022\nUniversitas Riau (UNRI) | Pekanbaru, Indonesia  Panel Data Analytics | 2023\nUniversitas Muhammadiyah Riau (UMRI) | Pekanbaru, Indonesia  Econometrics | 2024"
+    "text": "\\[\\begin{align}\ny&=a+bX \\\\\n&=a\n\\end{align}\\]"
   },
   {
     "objectID": "projects.html",
@@ -63,34 +49,6 @@
     "text": "Econometrics Book: Metode Analisis di Bidang Ekonomi\n\n\n\n\n\n(https://ferdi-fadly.github.io/econ)\n\n\n\n\n\nSebagai penulis, saya merasa sangat bersemangat untuk mempersembahkan buku Ekonometrika ini. Dalam penulisannya, saya berusaha menggali lebih dalam tentang bagaimana data statistik dapat membuka pintu wawasan tentang fenomena ekonomi yang kompleks.\nDalam buku ini, kita akan berdiskusi tentang regresi, yang memungkinkan kita memahami hubungan antara variabel-variabel ekonomi. Kita juga akan menjelajahi Error Correction Model (ECM), dan tentu saja, kita tidak akan melewatkan regresi dengan data panel.\nDitulis dalam bahasa R, Saya berharap buku ini tidak hanya menjadi referensi, tetapi juga menjadi teman setia bagi mahasiswa, peneliti, dan praktisi ekonomi. Mari kita bersama-sama menjelajahi dunia analisis statistik yang menarik dan relevan dalam konteks ekonomi. Selamat membaca! … Check out how"
   },
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Econometrics Book",
-    "section": "",
-    "text": "Dalam buku ini, kita akan berdiskusi tentang regresi, yang memungkinkan kita memahami hubungan antara variabel-variabel ekonomi. Kita juga akan menjelajahi Error Correction Model (ECM), dan tentu saja, kita tidak akan melewatkan regresi dengan data panel. Selengkapnya Buku ini dapat diakses pada halaman Econometrics Book."
-  },
-  {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My First Blog",
-    "section": "",
-    "text": "This is the first blog in my statistics journey. Welcome!\n\nDibangun tahun 2011, blog ini telah dikunjungi hampir 1 juta kunjungan. Namun, sebagai bagian dari perubahan, mulai tahun 2024, blog ini akan diistirahatkan. Meskipun demikian, file-file lama masih dapat diakses disini."
-  },
-  {
-    "objectID": "articles.html",
-    "href": "articles.html",
-    "title": "Articles",
-    "section": "",
-    "text": "Tip\n\n\n\nPada bagian ini, saya akan membagikan Artikel-artikel ataupun postingan pendek yang cocok dibaca dalam waktu singkat.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEconometrics Book\n\n\n\nnews\n\n\nBook\n\n\nCode\n\n\nAnalysis\n\n\n\n\n\n\n\nFerdian Fadly\n\n\nMar 10, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My First Blog\n\n\n\nnews\n\n\n\n\n\n\n\nFerdian Fadly\n\n\nOct 23, 2011\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/post-with-code/index.html#econometrics-book-metode-analisis-di-bidang-ekonomi",
-    "href": "posts/post-with-code/index.html#econometrics-book-metode-analisis-di-bidang-ekonomi",
-    "title": "Econometrics Book",
-    "section": "Econometrics Book: Metode Analisis di Bidang Ekonomi",
-    "text": "Econometrics Book: Metode Analisis di Bidang Ekonomi\n\n\n\n\n\n(https://ferdi-fadly.github.io/econ)\n\n\n\n\n\nSebagai penulis, saya merasa sangat bersemangat untuk mempersembahkan buku Ekonometrika ini. Dalam penulisannya, saya berusaha menggali lebih dalam tentang bagaimana data statistik dapat membuka pintu wawasan tentang fenomena ekonomi yang kompleks.\nDitulis dalam bahasa R, Saya berharap buku ini tidak hanya menjadi referensi, tetapi juga menjadi teman setia bagi mahasiswa, peneliti, dan praktisi ekonomi. Mari kita bersama-sama menjelajahi dunia analisis statistik yang menarik dan relevan dalam konteks ekonomi. Selamat membaca! … Check out how"
-  },
-  {
     "objectID": "posts/econ_book/index.html",
     "href": "posts/econ_book/index.html",
     "title": "Econometrics Book",
@@ -103,5 +61,68 @@
     "title": "Econometrics Book",
     "section": "Econometrics Book: Metode Analisis di Bidang Ekonomi",
     "text": "Econometrics Book: Metode Analisis di Bidang Ekonomi\n\n\n\n\n\n(https://ferdi-fadly.github.io/econ)\n\n\n\n\n\nSebagai penulis, saya merasa sangat bersemangat untuk mempersembahkan buku Ekonometrika ini. Dalam penulisannya, saya berusaha menggali lebih dalam tentang bagaimana data statistik dapat membuka pintu wawasan tentang fenomena ekonomi yang kompleks.\nDitulis dalam bahasa R, Saya berharap buku ini tidak hanya menjadi referensi, tetapi juga menjadi teman setia bagi mahasiswa, peneliti, dan praktisi ekonomi. Mari kita bersama-sama menjelajahi dunia analisis statistik yang menarik dan relevan dalam konteks ekonomi. Selamat membaca! … Check out how"
+  },
+  {
+    "objectID": "articles.html",
+    "href": "articles.html",
+    "title": "Articles",
+    "section": "",
+    "text": "Tip\n\n\n\nPada bagian ini, saya akan membagikan Artikel-artikel ataupun postingan pendek yang cocok dibaca dalam waktu singkat.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBiostatistics Book\n\n\n\nnews\n\n\nBook\n\n\nCode\n\n\nAnalysis\n\n\n\n\n\n\n\nFerdian Fadly\n\n\nMar 15, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEconometrics Book\n\n\n\nnews\n\n\nBook\n\n\nCode\n\n\nAnalysis\n\n\n\n\n\n\n\nFerdian Fadly\n\n\nMar 10, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My First Blog\n\n\n\nnews\n\n\n\n\n\n\n\nFerdian Fadly\n\n\nOct 23, 2011\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My First Blog",
+    "section": "",
+    "text": "This is the first blog in my statistics journey. Welcome!\n\nDibangun tahun 2011, blog ini telah dikunjungi hampir 1 juta kunjungan. Namun, sebagai bagian dari perubahan, mulai tahun 2024, blog ini akan diistirahatkan. Meskipun demikian, file-file lama masih dapat diakses disini."
+  },
+  {
+    "objectID": "projects.html#biostatistics-book-metode-analisis-di-bidang-kesehatan",
+    "href": "projects.html#biostatistics-book-metode-analisis-di-bidang-kesehatan",
+    "title": "Ferdian Fadly",
+    "section": "Biostatistics Book: Metode Analisis di Bidang Kesehatan",
+    "text": "Biostatistics Book: Metode Analisis di Bidang Kesehatan\n\n\nBuku ini merupakan Project Buku kedua setelah Project Econometrics. Saat ini masih dalam tahap pengembangan. Hal ini dikarenakan belum ada tempat mengujicobakan materi-materi pengajarannya secara real/ langsung tatap muka dengan mahasiswa.\nSebagai penerima Australasian Epidemiological Association top student Prize 2021, saya merasa punya tanggung jawab moral untuk turut serta berbagi ilmu, pengetahuan, dan pengalaman yang saya peroleh selama mempelajari mata kuliah Biostatistics ini di Australia.\nDalam buku ini, kita akan berdiskusi tentang Bagaimana pemanfaatan Statistik di Bidang Kesehatan, Istilah-istilah khusus yang digunakan, serta rencananya akan sampai pada analisis Survival. Ditulis dalam bahasa R, Saya berharap buku ini tidak hanya menjadi referensi, tetapi juga menjadi teman setia bagi mahasiswa, peneliti, dan praktisi Kesehatan. Mari kita bersama-sama menjelajahi dunia analisis statistik yang menarik dan relevan dalam konteks kesehatan. Selamat membaca! … Check out how\n\n\n\n(https://ferdi-fadly.github.io/biostat)"
+  },
+  {
+    "objectID": "posts/biostat_book/index.html",
+    "href": "posts/biostat_book/index.html",
+    "title": "Biostatistics Book",
+    "section": "",
+    "text": "Buku ini merupakan project Kedua setelah Buku Econometrics. Dalam buku ini, kita akan berdiskusi tentang Bagaimana pemanfaatan Statistik di Bidang Kesehatan, Istilah-istilah khusus yang digunakan, serta rencananya akan sampai pada analisis Survival."
+  },
+  {
+    "objectID": "posts/biostat_book/index.html#econometrics-book-metode-analisis-di-bidang-ekonomi",
+    "href": "posts/biostat_book/index.html#econometrics-book-metode-analisis-di-bidang-ekonomi",
+    "title": "Biostatistics Book",
+    "section": "Econometrics Book: Metode Analisis di Bidang Ekonomi",
+    "text": "Econometrics Book: Metode Analisis di Bidang Ekonomi\n\n\n\n\n\n(https://ferdi-fadly.github.io/econ)\n\n\n\n\n\nSebagai penulis, saya merasa sangat bersemangat untuk mempersembahkan buku Biostatistics ini. Dalam penulisannya, saya berusaha menggali lebih dalam tentang bagaimana data statistik dapat membuka pintu wawasan tentang fenomena di Bidang Kesehatan yang sangat kompleks.\nSelain itu, Buku ini merupakan bentuk tanggung jawab moral saya sebagai penerima Australasian Epidemiological Association top student Prize 2021. Sebuah penghargaan yang diberikan kepada mahasiswa pascasararjana dengan dasar penilaian tertinggi di bidang Biostatistics di Australia dan Asia.\nDitulis dalam bahasa R, Saya berharap buku ini tidak hanya menjadi referensi, tetapi juga menjadi teman setia bagi mahasiswa, peneliti, dan praktisi Kesehatan. Mari kita bersama-sama menjelajahi dunia analisis statistik yang menarik dan relevan dalam konteks kesehatan. Selamat membaca! … Check out how"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ferdian Fadly",
+    "section": "",
+    "text": "I am a Statistician and a lecturer. I have extensive background working with varied data sets and using advanced analytics to enable policy maker to make informed decisions.\nStatistics ANU | PK-169 LPDP | STIS 49 | SMAN 8 Pekanbaru"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Ferdian Fadly",
+    "section": "Education",
+    "text": "Education\nThe Australian National University (ANU) | Canberra, Australia Master in Statistics | Feb 2021 - Dec 2022\nThe Institute of Statistics (STIS) | Jakarta, Indonesia  B.Sc in Applied Statistics | Sept 2007 - Oct 2011"
+  },
+  {
+    "objectID": "index.html#teaching-experience",
+    "href": "index.html#teaching-experience",
+    "title": "Ferdian Fadly",
+    "section": "Teaching Experience",
+    "text": "Teaching Experience\nThe Australian National University (ANU) | Canberra, Australia Introductory Statistics for Business and Finance | 2022\nThe Australian National University (ANU) | Canberra, Australia Quantitative Research Methods | 2022\nUniversitas Riau (UNRI) | Pekanbaru, Indonesia  Panel Data Analytics | 2023\nUniversitas Muhammadiyah Riau (UMRI) | Pekanbaru, Indonesia  Econometrics | 2024"
+  },
+  {
+    "objectID": "posts/biostat_book/index.html#biostatistics-book-metode-analisis-di-bidang-kesehatan",
+    "href": "posts/biostat_book/index.html#biostatistics-book-metode-analisis-di-bidang-kesehatan",
+    "title": "Biostatistics Book",
+    "section": "Biostatistics Book: Metode Analisis di Bidang Kesehatan",
+    "text": "Biostatistics Book: Metode Analisis di Bidang Kesehatan\n\n\n\n\n\n(https://ferdi-fadly.github.io/biostat)\n\n\n\n\n\nSebagai penulis, saya merasa sangat bersemangat untuk mempersembahkan buku Biostatistics ini. Dalam penulisannya, saya berusaha menggali lebih dalam tentang bagaimana data statistik dapat membuka pintu wawasan tentang fenomena di Bidang Kesehatan yang sangat kompleks.\nSelain itu, Buku ini merupakan bentuk tanggung jawab moral saya sebagai penerima Australasian Epidemiological Association top student Prize 2021. Sebuah penghargaan yang diberikan kepada mahasiswa pascasararjana dengan dasar penilaian tertinggi di bidang Biostatistics di Australia dan Asia.\nDitulis dalam bahasa R, Saya berharap buku ini tidak hanya menjadi referensi, tetapi juga menjadi teman setia bagi mahasiswa, peneliti, dan praktisi Kesehatan. Mari kita bersama-sama menjelajahi dunia analisis statistik yang menarik dan relevan dalam konteks kesehatan. Selamat membaca! … Check out how"
   }
 ]
